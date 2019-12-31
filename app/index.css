@@ -1,3 +1,6 @@
-body {
-  background-color: green;
+.light {
+  background-color: peachpuff;
+}
+.dark {
+  background-color: darkorange;
 }
